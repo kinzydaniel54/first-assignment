@@ -1,6 +1,6 @@
 username = ("bobby:")
 
 if username == "happy":
- print("thats great to hear")
+ print("Thats great to hear")
 else:("sad")
-print("i hope your day gets better")
+print("I hope your day gets better")
