@@ -1,12 +1,12 @@
-bread =int("5")
-eggs = int("5")
-milk = int("4")
+bread = 5
+eggs =  5
+milk = 4
 
 sum = bread+eggs+milk
 
 print("The sum of all three items is",sum)
 
-SavingsAccount= 700
-interest=("percentage 7%")
+Savings_Account= 700
+interest= 0.7
 #700 is the int of 7%
-print(SavingsAccount + 700)
+print(Savings_Account * interest + Savings_Account)

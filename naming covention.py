@@ -1,4 +1,4 @@
-PiValue = 3.14
-UserAge = 25
-Userlocation = "New York"
-MaxLimit = 1000
+PI_VALUE = 3.14
+user_age = 25
+user_location = "New York"
+MAX_LIMIT = 1000
